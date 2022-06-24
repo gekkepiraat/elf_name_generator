@@ -1,0 +1,100 @@
+{1} Ael: knight
+{2} Aer : law, order
+{3} Af : ring
+{4} Ah : crafty, sly
+{5} Al : sea
+{6} Am : swan
+{7} Ama : beauty, beautiful
+{8} An : hand
+{9} Ang : glitter
+{10} Ansr : rune
+{11} Ar : gold, golden
+{12} Arì : silver
+{13} Arn : south
+{14} Aza : life, lives
+{15} Bael : guardian
+{16} Bes : oath
+{17} Cael : archer, arrow
+{18} Cal : faith
+{19} Cas : herald
+{20} Cla : rose
+{21} Cor : legend, legendary
+{22} Cy : onyx
+{23} Dae : white
+{24} Dho : falcon
+{25} Dre : hound
+{26} Du : crescent
+{27} Eil : azure, blue
+{28} Eir : sharp
+{29} El : green
+{30} Er : boar
+{31} Ev : stag
+{32} Fera : champion
+{33} Fi : rain
+{34} Fir : dark
+{35} Fis : light
+{36} Gael : pegasus
+{37} Gar : owl
+{38} Gil : griffin
+{39} Ha : free, freedom
+{40} Hu : horse
+{41} Ia : day
+{42} Il : mist
+{43} Ja : staff
+{44} Jar : dove
+{45} Ka : dragon
+{46} Kan : eagle
+{47} Ker : spell
+{48} Keth : wind
+{49} Koeh : earth
+{50} Kor : black
+{51} Ky : ruby
+{52} La : night
+{53} Laf : moon
+{54} Lam : east
+{55} Lue : riddle
+{56} Ly : wolf
+{57} Mai : death, slayer
+{58} Mal : war
+{59} Mara : priest
+{60} My : emerald
+{61} Na : ancient
+{62} Nai : oak
+{63} Nim : deep
+{64} Nu : hope, hopeful
+{65} Ny : diamond
+{66} Py : sapphire
+{67} Raer : unicorn
+{68} Re : bear
+{69} Ren : west
+{70} Rhy (Ry): jade
+{71} Ru : dream
+{72} Rua : star
+{73} Rum : meadow
+{74} Rid : spear
+{75} Sae : wood
+{76} Seh : soft
+{77} Sel : high
+{78} Sha : sun
+{79} She : age, time
+{80} Si : cat, feline
+{81} Sim : north
+{82} Sol : history, memory
+{83} Sum : water
+{84} Syl : faerie
+{85} Ta : fox
+{86} Tahl : blade
+{87} Tha : vigil, vigilance
+{88} Tho : true, truth
+{89} Ther : sky
+{90} Thro : lore, sage
+{91} Tia : magic
+{92} Tra : tree
+{93} Ty (Try): crystal
+{94} Uth : wizard
+{95} Ver : peace
+{96} Vil : finger, point
+{97} Von : ice
+{98} Ya : bridge, path, way
+{99} Za : royal
+{100} Zy : ivory

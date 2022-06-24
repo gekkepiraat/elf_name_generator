@@ -1,0 +1,100 @@
+{1} -ae (-nae) : whisper
+{2} -ael : great
+{3} -aer / -aera : singer, song
+{4} -aias / -aia : mate, husband / wife
+{5} -ah / -aha : wand
+{6} -aith / -aira : home
+{7} -al / -ala (-la; -lae; -llae) : harmony
+{8} -ali : shadow
+{9} -am / -ama : strider
+{10} -an / -ana (-a; -ani; -uanna) : make, maker
+{11} -ar / -ara (-ra) : man / woman
+{12} -ari (-ri) : spring
+{13} -aro (-ro) : summer
+{14} -as (-ash; -sah) : bow, fletcher
+{15} -ath : by, of, with
+{16} -avel : sword
+{17} -brar (-abrar; -ibrar) : craft, crafter
+{18} -dar (-adar; -odar) : world
+{19} -deth (-eath; -eth) : eternal
+{20} -dre : charm, charming
+{21} -drim (-drimme; -udrim) : flight, flyer
+{22} -dul : glade
+{23} -ean : ride, rider
+{24} -el (-ele / -ela) : hawk
+{25} -emar : honor
+{26} -en : autumn
+{27} -er (-erl; -ern) : winter
+{28} -ess (-esti) : elves, elvin
+{29} -evar : flute
+{30} -fel (-afel; -efel) : lake
+{31} -hal (-ahal; -ihal) : pale, weak
+{32} -har (-ihar; -uhar) : wisdom, wise
+{33} -hel (-ahel; -ihel) : sadness, tears
+{34} -ian / -ianna (-ia; -ii; -ion) : lord / lady
+{35} -iat : fire
+{36} -ik : might, mighty
+{37} -il (-iel; -ila; -lie) : gift, giver
+{38} -im : duty
+{39} -in (-inar; -ine) : sibling, brother / sister
+{40} -ir (-ira; -ire) : dusk
+{41} -is (-iss; -ist) : scribe, scroll
+{42} -ith (-lath; -lith; -lyth) : child, young
+{43} -kash (-ashk; -okash) : fate
+{44} -ki : void
+{45} -lan / -lanna (-lean; -olan / -ola) : son / daughter
+{46} -lam (-ilam; -ulam) : fair
+{47} -lar (-lirr) : shine
+{48} -las : wild
+{49} -lian / -lia : master / mistress
+{50} -lis (-elis; -lys) : breeze
+{51} -lon (-ellon) : chief
+{52} -lyn (-llinn; -lihn) : bolt, ray
+{53} -mah / -ma (-mahs) : mage
+{54} -mil (-imil; -umil) : bond, promise
+{55} -mus : ally, companion
+{56} -nal (-inal; -onal) : distant, far
+{57} -nes : heart
+{58} -nin (-nine; -nyn) : rite, ritual
+{59} -nis (-anis) : dawn
+{60} -on/onna: Keep/Keeper
+{61} -or (-oro): Flower
+{62} -oth (-othi) : gate
+{63} -que : forgotten, lost
+{64} -quis : branch, limb
+{65} -rah(-rae; -raee) : beast
+{66} -rad(-rahd) : leaf
+{67} -rail/-ria (-aral; -ral; -ryl) : hunt, hunter
+{68} -ran (-re; -reen) : binding, shackles
+{69} -reth (-rath) : arcane
+{70} -ro (-ri; -ron) : walker, walks
+{71} -ruil (-aruil; -eruil) : noble
+{72} -sal (-isal; -sali) : honey, sweet
+{73} -san : drink, wine
+{74} -sar (-asar; -isar) : quest, seeker
+{75} -sel (-asel; -isel) : mountain
+{76} -sha (-she; -shor) : ocean
+{77} -spar : fist
+{78} -tae (-itae) : beloved, love
+{79} -tas (-itas) : wall, ward
+{80} -ten (-iten) : spinner
+{81} -thal /-tha (-ethal / -etha) : heal, healer, healing
+{82} -thar (-ethar; -ithar) : friend
+{83} -ther (-ather; -thir) : armor, protection
+{84} -thi (-ethil; -thil) : wing
+{85} -thus /-thas (-aethus / -aethas) : harp, harper
+{86} -ti (-eti;-til) : eye, sight
+{87} -tril /-tria (-atri; -atril / -atria) : dance, dancer
+{88} -ual (-lua) : holy
+{89} -uath (-luth; -uth) : lance
+{90} -us /-ua : cousin, kin
+{91} -van /-vanna : forest
+{92} -var /-vara (-avar / -avara) : father / mother
+{93} -vain (-avain) : spirit
+{94} -via (-avia) : good fortune, luck
+{95} -vin (-avin) : storm
+{96} -wyn : music, muscian
+{97} -ya : helm
+{98} -yr / -yn : bringer
+{99} -yth : folk, people
+{100} -zair /-zara (-azair / -ezara) : lightning
